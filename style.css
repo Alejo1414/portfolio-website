@@ -569,6 +569,11 @@ footer {
         margin-top: 2rem;
         text-align: center;
     }
+
+    .footer-iconTop {
+        margin-left: 140px;
+        margin-bottom: 5.5px;
+    }
 }
 
 @media (max-width: 371px) {
@@ -585,5 +590,10 @@ footer {
 
     .home-content h1 {
         font-size: 5rem;
+    }
+
+    .footer-iconTop {
+        margin-left: 140px;
+        margin-bottom: 5.5px;
     }
 }
