@@ -390,6 +390,14 @@ span {
     color: var(--main-color);
 }
 
+.project-link-container {
+    display: flex;
+}
+
+.project-link-container > p {
+    margin-right: 10px;
+}
+
 footer {
     display: flex;
     justify-content: space-between;
